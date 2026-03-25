@@ -22,3 +22,9 @@ Most operational knowledge in adtech and client servicing lives in silos. This r
 ## Ongoing work
 
 This is a living repository and will continue to evolve with new experiments, frameworks, and learnings.
+##  playbooks (in progress)
+
+- Publisher onboarding checklist  
+- AI-assisted campaign setup workflow  
+- Content planning system for founder-led brands  
+- Weekly client reporting automation flow  
